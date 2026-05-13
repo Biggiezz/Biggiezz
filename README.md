@@ -41,7 +41,6 @@
 </p>
 
 ## Skills:
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
@@ -64,32 +63,20 @@
 
 <table style="width:100%;">
   <tr>
-
-[//]: # (    <td>)
-
-[//]: # (      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>)
-
-[//]: # (      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>)
-
-[//]: # (    </td>)
-
     <td>
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
-
   </tr>
 </table>
 
 [//]: # (# Certificates:)
 
 [//]: # ()
-
 [//]: # (<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">)
 
 [//]: # ()
-
 [//]: # (- [![MATLAB]&#40;https://img.shields.io/badge/-MATLAB-orange&#41; Onramp]&#40;https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1&#41;)
 
 [//]: # (- [![MATLAB]&#40;https://img.shields.io/badge/-MATLAB-orange&#41; Machine Learning Onramp]&#40;https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1&#41;)
@@ -113,7 +100,6 @@
 [//]: # (# Contributors)
 
 [//]: # ()
-
 [//]: # (<a href="https://github.com/TienNHM/TienNHM/graphs/contributors">)
 
 [//]: # (  <img src="https://contrib.rocks/image?repo=TienNHM/TienNHM" />)
