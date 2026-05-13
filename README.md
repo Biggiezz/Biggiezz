@@ -11,8 +11,8 @@
 
 <br />
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
+[![Gitter: @biggiezz:gitter.im](https://img.shields.io/badge/Gitter-%40biggiezz%3Agitter.im-ED1965?style=flat-square&logo=gitter&logoColor=white)](https://matrix.to/#/@biggiezz:gitter.im)
+![](https://komarev.com/ghpvc/?username=Biggiezz&style=flat-square)
 
 ## 📫 How to reach me:
 
